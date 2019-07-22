@@ -1,7 +1,5 @@
 Customer Management CLI(Command line interface )
 
-It Uses Mongoose, COmmander.js and Inquirer.js 
-
 Install the dependencies
 $ npm install Mongoose Commander Inquirer
 
